@@ -1,2 +1,2 @@
-# project
-intel3_project
+# kcci_project
+intel3_process
