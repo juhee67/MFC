@@ -1,2 +1,2 @@
 # project
-my project_intel3
+intel3_project
